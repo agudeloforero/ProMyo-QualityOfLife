@@ -84,14 +84,14 @@ The project follows an **applied research approach** based on **reverse engineer
 ---
 
 ## 📂 Repository Structure
-ProMyo-QualityOfLife/
-│
-├── 01_Documentation/ → Reports, presentations, and posters
-├── 02_Design_Files/ → CAD and STL files
-├── 03_Electronics/ → Arduino code and wiring diagrams
-├── 04_Prototypes/ → Photos, videos, and 3D scans
-├── 05_Publications_Shared/ → e-NABLE and collaboration updates
-└── 06_Resources/ → Tutorials, templates, and external links
+| Folder | Description |
+|--------|--------------|
+| [01_Documentation](./01_Documentation) | Reports, meeting notes, and official documentation. |
+| [02_Design_Files](./02_Design_Files) | CAD, STL, and 3D design files for the prosthesis. |
+| [03_Electronics](./03_Electronics) | Arduino code, circuit diagrams, and sensor configurations. |
+| [04_Prototypes](./04_Prototypes) | Records, photos, and details of physical prototypes. |
+| [05_Publications_Shared](./05_Publications_Shared) | Materials shared with collaborators and networks. |
+| [06_Resources](./06_Resources) | Technical resources, tutorials, and reference materials. |
 
 ---
 
