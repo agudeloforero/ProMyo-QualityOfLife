@@ -48,8 +48,8 @@ The project is carried out by a **multidisciplinary research incubator** at SENA
 **Project Leader:**  
 César Augusto Agudelo Forero – Instructor and Research Advisor, SENA CEAI  
 
-**Electronic System Lead:**  
-Juan Camilo Hincapié Toro – Apprentice, ADSO-28 (Virtual Program)  
+**Research Apprentices:**  
+Juan Camilo Hincapié, Richard Pabón, Billy Gulumá, Oswald Hernández, Alejandro Posada, Jhon Caracas, Gabriela Gulumá, Brian Esteban Duque, Michael Stiven Balanta.
 
 **Academic Partners:**  
 - Universidad del Valle – Occupational Therapy and Physiotherapy Programs  
@@ -107,16 +107,6 @@ ProMyo-QualityOfLife/
 Instructor & Research Advisor – SENA CEAI, Cali, Colombia  
 ✉️ [cagudelof@sena.edu.co]  
 🌐 [SENA Website](https://www.sena.edu.co)  
-
----
-
-## 📚 References
-
-- Amaro Rosales, M., & Robles Belmont, E. (2020). *Medir la innovación en el contexto de las tecnologías emergentes y convergentes.* PAAKAT: Revista de Tecnología y Sociedad, 10(18). https://doi.org/10.32870/pk.a10n18.415  
-- Biddiss, E., & Chau, T. (2007). *Upper-limb prosthetics: Critical factors in device abandonment.* American Journal of Physical Medicine & Rehabilitation, 86(12), 977–987. https://doi.org/10.1097/PHM.0b013e3181587f6c  
-- Cuéllar, J. S., Smit, G., Breedveld, P., Zadpoor, A. A., & Plettenburg, D. (2019). *Functional evaluation of a non-assembly 3D-printed hand prosthesis.* Proc. IMechE Part H, 233(11), 1122–1131. https://doi.org/10.1177/0954411919874523  
-- Hanspal, R. S., Fisher, K., & Nieveen, R. (2003). *Prosthetic socket fit comfort score.* Disability and Rehabilitation, 25(22), 1278–1280. https://doi.org/10.1080/09638280310001603983  
-- Ten Kate, J., Smit, G., & Breedveld, P. (2017). *3D-printed upper limb prostheses: A review.* Disability and Rehabilitation: Assistive Technology, 12(3), 300–314. https://doi.org/10.1080/17483107.2016.1253117  
 
 ---
 
